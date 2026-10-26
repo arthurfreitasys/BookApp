@@ -41,4 +41,4 @@ yarn-error.*
 /android
 
 # Connection
-.\src\services\supabase.js
+./src/services/supabase.js
